@@ -1,25 +1,25 @@
 ![MasterHead](init.gif)
 
-<h1 align="center">Hi 👋, I'm DEVASHEESH MISHRA</h1>
+<h1 align="center">Hi 👋, I'm DHRUV SINGH PONIYA</h1>
 <h3 align="center">A passionate AI technologist from Delhi, India.</h3>
 <img align="right" alt="Coding" width="400" src="./chatgpt_feat.gif">
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=devasheeshG&label=Profile%20views&color=0e75b6&style=flat" alt="Devasheesh's Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Dhruv-Singh-Poniya&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv's Profile Views" />
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/devasheesh-mishra/">
-        <img src="https://img.shields.io/badge/-DevasheeshMishra-blue?style=flat&logo=Linkedin&logoColor=white" alt="Devasheesh's LinkedIn" />
+    <a href="https://www.linkedin.com/in/Dhruv-Singh-Poniya/">
+        <img src="https://img.shields.io/badge/-Dhruv_Singh-blue?style=flat&logo=Linkedin&logoColor=white" alt="Dhruv's LinkedIn" />
     </a>
     <!-- HuggingFace -->
     <!-- <img src="https://iconduck.com/api/v2/vectors/vctr235ndwiv/media/png/256/download" alt="HuggingFace Logo" , width=20px />
-    <a href="https://huggingface.co/devasheeshG">
-        <img src="https://img.shields.io/badge/-DevasheeshMishra-ff9900?style=flat&logoColor=white" alt="Devasheesh's HuggingFace" />
+    <a href="https://huggingface.co/Dhruv-Singh-Poniya">
+        <img src="https://img.shields.io/badge/-DhruvMishra-ff9900?style=flat&logoColor=white" alt="Dhruv's HuggingFace" />
     </a> -->
 </p>
 
 - 🌱 I’m currently learning **Deep Learning**
-- 📫 How to reach me **devasheesh@devasheeshmishra.com**
-- 📫 Also available at **devasheeshmishra4@gmail.com**
+- 📫 How to reach me **dhruvsinghponiya@gmail.com**
+- 📫 Also available at **Dhruv4908@gmail.com**
 - ⚡ Fun fact **I am Funny**
 
 <!-- <p align="left">
@@ -34,15 +34,15 @@
 <h1>🔥 My Stats 🔥</h3>
 <br>
 <a href="#">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=devasheeshG&theme=dark&background=000000" alt="GitHub Streak">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Dhruv-Singh-Poniya&theme=dark&background=000000" alt="GitHub Streak">
 </a>
 <br>
 <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=devasheeshG&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Devasheesh's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Singh-Poniya&show_icons=true&theme=vision-friendly-dark&background=000000" alt="Dhruv's GitHub stats">
 </a>
 <br>
 <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devasheeshG&theme=vision-friendly-dark" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Singh-Poniya&theme=vision-friendly-dark" alt="Top Langs">
 </a>
 
 ---
